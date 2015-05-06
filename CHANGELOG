@@ -5,7 +5,7 @@
 . setApsSound() setter added for PnApnsMessage instance
 . fix for NPE when calling removeAllPushNotificationsForDeviceRegistrationId
 . fix for JS <-> Java AES256 encryption incompatibility corner case
-. Merge pull request #27 from ntoskrnl - callback not being added for publish
+. Merge pull request #27 from ntoskrnl - callback not being added for publishccfb
 
 10-22-14 - 3.7.0 - c31f31
 . channel groups functionality
